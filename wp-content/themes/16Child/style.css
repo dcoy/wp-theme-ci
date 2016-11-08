@@ -7,3 +7,7 @@ Author URI:     http://davidcoy.xyz
 Template:       twentysixteen
 Version:        0.1.0
 */
+
+body {
+  margin: auto;
+}
